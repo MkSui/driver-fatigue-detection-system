@@ -1,0 +1,302 @@
+2022-04-24 16:13:34,568 DEBUG - Starting WinSW in console mode
+2022-04-24 16:13:34,599 INFO  - Installing service 'Gotify (gotify)'...
+2022-04-24 16:13:34,602 ERROR - A service with ID 'gotify' already exists.
+2022-04-24 16:13:34,603 FATAL - Failed to install the service. 指定的服务已存在。
+2022-04-24 16:13:54,373 DEBUG - Starting WinSW in console mode
+2022-04-24 16:13:54,386 INFO  - Installing service 'flaskapp (flaskapp)'...
+2022-04-24 16:13:54,529 INFO  - Service 'flaskapp (flaskapp)' was installed successfully.
+2022-04-24 16:14:00,385 DEBUG - Starting WinSW in service mode
+2022-04-24 16:14:00,405 INFO  - Starting python flaskapp.py
+2022-04-24 16:14:00,416 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:14:01,766 DEBUG - Starting WinSW in service mode
+2022-04-24 16:14:01,786 INFO  - Starting python flaskapp.py
+2022-04-24 16:14:01,798 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:14:03,031 DEBUG - Starting WinSW in service mode
+2022-04-24 16:14:03,051 INFO  - Starting python flaskapp.py
+2022-04-24 16:14:03,064 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:17:01,635 DEBUG - Starting WinSW in console mode
+2022-04-24 16:17:01,649 INFO  - Installing service 'flaskapp (flaskapp)'...
+2022-04-24 16:17:01,652 ERROR - A service with ID 'flaskapp' already exists.
+2022-04-24 16:17:01,653 FATAL - Failed to install the service. 指定的服务已存在。
+2022-04-24 16:17:07,685 DEBUG - Starting WinSW in console mode
+2022-04-24 16:17:07,700 INFO  - Uninstalling service 'flaskapp (flaskapp)'...
+2022-04-24 16:17:07,705 INFO  - Service 'flaskapp (flaskapp)' was uninstalled successfully.
+2022-04-24 16:17:09,636 DEBUG - Starting WinSW in console mode
+2022-04-24 16:17:09,650 INFO  - Installing service 'flaskapp (flaskapp)'...
+2022-04-24 16:17:09,669 INFO  - Service 'flaskapp (flaskapp)' was installed successfully.
+2022-04-24 16:17:12,481 DEBUG - Starting WinSW in console mode
+2022-04-24 16:17:12,511 INFO  - Starting service 'flaskapp (flaskapp)'...
+2022-04-24 16:17:12,620 DEBUG - Starting WinSW in service mode
+2022-04-24 16:17:12,633 INFO  - Service 'flaskapp (flaskapp)' started successfully.
+2022-04-24 16:17:12,643 INFO  - Starting python.exe flaskapp.py
+2022-04-24 16:17:12,661 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:17:20,241 DEBUG - Starting WinSW in service mode
+2022-04-24 16:17:20,261 INFO  - Starting python.exe flaskapp.py
+2022-04-24 16:17:20,273 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:17:23,666 DEBUG - Starting WinSW in console mode
+2022-04-24 16:17:23,679 INFO  - Uninstalling service 'flaskapp (flaskapp)'...
+2022-04-24 16:17:23,684 INFO  - Service 'flaskapp (flaskapp)' was uninstalled successfully.
+2022-04-24 16:19:14,677 DEBUG - Starting WinSW in console mode
+2022-04-24 16:19:14,691 INFO  - Installing service 'flaskapp (flaskapp)'...
+2022-04-24 16:19:14,710 INFO  - Service 'flaskapp (flaskapp)' was installed successfully.
+2022-04-24 16:19:36,597 DEBUG - Starting WinSW in console mode
+2022-04-24 16:19:36,610 INFO  - Installing service 'flaskapp (flaskapp)'...
+2022-04-24 16:19:36,615 ERROR - A service with ID 'flaskapp' already exists.
+2022-04-24 16:19:36,616 FATAL - Failed to install the service. 指定的服务已存在。
+2022-04-24 16:19:40,928 DEBUG - Starting WinSW in console mode
+2022-04-24 16:19:40,941 INFO  - Starting service 'flaskapp (flaskapp)'...
+2022-04-24 16:19:41,048 DEBUG - Starting WinSW in service mode
+2022-04-24 16:19:41,060 INFO  - Service 'flaskapp (flaskapp)' started successfully.
+2022-04-24 16:19:41,069 INFO  - Starting python.exe flaskapp.py
+2022-04-24 16:19:41,085 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:19:50,763 DEBUG - Starting WinSW in service mode
+2022-04-24 16:19:50,781 INFO  - Starting python.exe flaskapp.py
+2022-04-24 16:19:50,794 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:21:05,554 DEBUG - Starting WinSW in console mode
+2022-04-24 16:21:05,567 INFO  - Uninstalling service 'flaskapp (flaskapp)'...
+2022-04-24 16:21:05,572 INFO  - Service 'flaskapp (flaskapp)' was uninstalled successfully.
+2022-04-24 16:21:07,833 DEBUG - Starting WinSW in console mode
+2022-04-24 16:21:07,847 INFO  - Installing service 'flaskapp (flaskapp)'...
+2022-04-24 16:21:07,871 INFO  - Service 'flaskapp (flaskapp)' was installed successfully.
+2022-04-24 16:21:11,653 DEBUG - Starting WinSW in console mode
+2022-04-24 16:21:11,666 INFO  - Starting service 'flaskapp (flaskapp)'...
+2022-04-24 16:21:11,776 DEBUG - Starting WinSW in service mode
+2022-04-24 16:21:11,788 INFO  - Service 'flaskapp (flaskapp)' started successfully.
+2022-04-24 16:21:11,798 INFO  - Starting python.exe flaskapp.py
+2022-04-24 16:21:11,814 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:21:17,331 DEBUG - Starting WinSW in service mode
+2022-04-24 16:21:17,351 INFO  - Starting python.exe flaskapp.py
+2022-04-24 16:21:17,363 ERROR - Failed to start service.
+System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 WinSW.Util.ProcessHelper.StartProcessAndCallbackForExit(Process processToStart, String executable, String arguments, Dictionary`2 envVars, String workingDirectory, Nullable`1 priority, ProcessCompletionCallback callback, LogHandler logHandler, Boolean hideWindow)
+   在 WinSW.WrapperService.StartProcess(Process processToStart, String arguments, String executable, LogHandler logHandler)
+   在 WinSW.WrapperService.DoStart()
+   在 WinSW.WrapperService.OnStart(String[] args)
+2022-04-24 16:21:57,200 DEBUG - Starting WinSW in console mode
+2022-04-24 16:21:57,213 INFO  - Uninstalling service 'flaskapp (flaskapp)'...
+2022-04-24 16:21:57,217 INFO  - Service 'flaskapp (flaskapp)' was uninstalled successfully.
+2022-04-24 16:21:58,867 DEBUG - Starting WinSW in console mode
+2022-04-24 16:21:58,881 INFO  - Installing service 'flaskapp (flaskapp)'...
+2022-04-24 16:21:58,900 INFO  - Service 'flaskapp (flaskapp)' was installed successfully.
+2022-04-24 16:22:00,375 DEBUG - Starting WinSW in console mode
+2022-04-24 16:22:00,388 INFO  - Starting service 'flaskapp (flaskapp)'...
+2022-04-24 16:22:00,495 DEBUG - Starting WinSW in service mode
+2022-04-24 16:22:00,507 INFO  - Service 'flaskapp (flaskapp)' started successfully.
+2022-04-24 16:22:00,515 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-24 16:22:00,533 INFO  - Started process 1484
+2022-04-24 16:22:00,535 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:46:51,176 INFO  - Stopping flaskapp
+2022-04-27 13:46:51,177 DEBUG - ProcessKill 1484
+2022-04-27 13:46:51,181 DEBUG - Stopping process 1484...
+2022-04-27 13:46:51,634 DEBUG - Process 1484 canceled with code -1073741510.
+2022-04-27 13:46:51,659 INFO  - Finished flaskapp
+2022-04-27 13:46:53,304 DEBUG - Starting WinSW in service mode
+2022-04-27 13:46:53,328 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:46:53,340 INFO  - Started process 3700
+2022-04-27 13:46:53,345 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:47:03,526 DEBUG - Starting WinSW in service mode
+2022-04-27 13:47:03,544 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:47:03,557 INFO  - Started process 5536
+2022-04-27 13:47:03,558 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:47:13,723 DEBUG - Starting WinSW in service mode
+2022-04-27 13:47:13,740 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:47:13,752 INFO  - Started process 488
+2022-04-27 13:47:13,754 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:47:23,917 DEBUG - Starting WinSW in service mode
+2022-04-27 13:47:23,935 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:47:23,952 INFO  - Started process 2460
+2022-04-27 13:47:23,954 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:47:34,117 DEBUG - Starting WinSW in service mode
+2022-04-27 13:47:34,135 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:47:34,145 INFO  - Started process 5840
+2022-04-27 13:47:34,148 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:47:44,305 DEBUG - Starting WinSW in service mode
+2022-04-27 13:47:44,323 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:47:44,334 INFO  - Started process 1072
+2022-04-27 13:47:44,336 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:47:54,498 DEBUG - Starting WinSW in service mode
+2022-04-27 13:47:54,516 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:47:54,528 INFO  - Started process 5484
+2022-04-27 13:47:54,531 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:04,689 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:04,707 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:04,720 INFO  - Started process 624
+2022-04-27 13:48:04,722 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:14,889 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:14,910 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:14,924 INFO  - Started process 6076
+2022-04-27 13:48:14,926 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:19,267 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:19,286 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:19,300 INFO  - Started process 3964
+2022-04-27 13:48:19,302 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:25,101 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:25,121 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:25,133 INFO  - Started process 1348
+2022-04-27 13:48:25,135 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:30,810 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:30,828 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:30,841 INFO  - Started process 1488
+2022-04-27 13:48:30,843 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:35,558 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:35,575 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:35,589 INFO  - Started process 5416
+2022-04-27 13:48:35,590 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:41,308 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:41,331 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:41,346 INFO  - Started process 5544
+2022-04-27 13:48:41,349 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:46,018 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:46,036 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:46,048 INFO  - Started process 5512
+2022-04-27 13:48:46,050 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:51,803 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:51,822 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:51,835 INFO  - Started process 4852
+2022-04-27 13:48:51,838 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:48:56,457 DEBUG - Starting WinSW in service mode
+2022-04-27 13:48:56,476 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:48:56,488 INFO  - Started process 5508
+2022-04-27 13:48:56,490 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:49:02,258 DEBUG - Starting WinSW in service mode
+2022-04-27 13:49:02,276 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:49:02,288 INFO  - Started process 112
+2022-04-27 13:49:02,290 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:49:06,908 DEBUG - Starting WinSW in service mode
+2022-04-27 13:49:06,926 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:49:06,937 INFO  - Started process 4512
+2022-04-27 13:49:06,940 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:49:10,989 DEBUG - Starting WinSW in service mode
+2022-04-27 13:49:11,008 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 13:49:11,021 INFO  - Started process 1264
+2022-04-27 13:49:11,023 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-04-27 13:49:46,035 INFO  - Stopping flaskapp
+2022-04-27 13:49:46,035 DEBUG - ProcessKill 1264
+2022-04-27 13:49:46,038 DEBUG - Stopping process 1264...
+2022-04-27 13:49:46,286 DEBUG - Process 1264 canceled with code -1073741510.
+2022-04-27 13:49:46,292 INFO  - Finished flaskapp
+2022-04-27 14:14:35,683 DEBUG - Starting WinSW in service mode
+2022-04-27 14:14:36,355 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-04-27 14:14:36,418 INFO  - Started process 3912
+2022-04-27 14:14:36,464 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-05-28 23:22:33,853 INFO  - Stopping flaskapp
+2022-05-28 23:22:33,881 DEBUG - ProcessKill 3912
+2022-05-28 23:22:33,892 DEBUG - Stopping process 3912...
+2022-05-28 23:22:34,345 DEBUG - Process 3912 canceled with code -1073741510.
+2022-05-28 23:22:34,412 INFO  - Finished flaskapp
+2022-05-30 13:05:52,657 DEBUG - Starting WinSW in service mode
+2022-05-30 13:05:52,682 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-05-30 13:05:52,695 INFO  - Started process 976
+2022-05-30 13:05:52,698 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-05-30 22:39:49,567 INFO  - Stopping flaskapp
+2022-05-30 22:39:49,567 DEBUG - ProcessKill 976
+2022-05-30 22:39:49,573 DEBUG - Stopping process 976...
+2022-05-30 22:39:49,988 DEBUG - Process 976 canceled with code -1073741510.
+2022-05-30 22:39:50,073 INFO  - Finished flaskapp
+2022-05-30 23:15:32,610 DEBUG - Starting WinSW in service mode
+2022-05-30 23:15:32,642 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-05-30 23:15:32,653 INFO  - Started process 7044
+2022-05-30 23:15:32,655 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-06-03 00:08:48,304 INFO  - Stopping flaskapp
+2022-06-03 00:08:48,305 DEBUG - ProcessKill 7044
+2022-06-03 00:08:48,307 DEBUG - Stopping process 7044...
+2022-06-03 00:08:48,836 DEBUG - Process 7044 canceled with code -1073741510.
+2022-06-03 00:08:48,843 INFO  - Finished flaskapp
+2022-06-03 00:08:50,384 DEBUG - Starting WinSW in service mode
+2022-06-03 00:08:50,402 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-06-03 00:08:50,414 INFO  - Started process 3216
+2022-06-03 00:08:50,416 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-07-03 17:00:28,748 INFO  - Stopping flaskapp
+2022-07-03 17:00:28,748 DEBUG - ProcessKill 3216
+2022-07-03 17:00:28,748 DEBUG - Stopping process 3216...
+2022-07-03 17:00:29,076 DEBUG - Process 3216 canceled with code -1073741510.
+2022-07-03 17:00:29,091 INFO  - Finished flaskapp
+2022-07-03 17:00:53,458 DEBUG - Starting WinSW in service mode
+2022-07-03 17:00:53,646 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-07-03 17:00:53,708 INFO  - Started process 3332
+2022-07-03 17:00:53,724 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-07-04 07:05:01,504 INFO  - Stopping flaskapp
+2022-07-04 07:05:01,522 DEBUG - ProcessKill 3332
+2022-07-04 07:05:01,522 DEBUG - Stopping process 3332...
+2022-07-04 07:05:01,769 DEBUG - Process 3332 canceled with code -1073741510.
+2022-07-04 07:05:01,769 INFO  - Finished flaskapp
+2022-07-24 17:58:06,111 DEBUG - Starting WinSW in service mode
+2022-07-24 17:58:06,768 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-07-24 17:58:06,830 INFO  - Started process 3592
+2022-07-24 17:58:06,877 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-11-13 04:10:23,577 INFO  - Stopping flaskapp
+2022-11-13 04:10:23,593 DEBUG - ProcessKill 3592
+2022-11-13 04:10:23,593 DEBUG - Stopping process 3592...
+2022-11-13 04:10:24,548 DEBUG - Process 3592 canceled with code -1073741510.
+2022-11-13 04:10:24,562 INFO  - Finished flaskapp
+2022-11-13 04:10:41,523 DEBUG - Starting WinSW in service mode
+2022-11-13 04:10:41,773 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-11-13 04:10:41,898 INFO  - Started process 4632
+2022-11-13 04:10:41,914 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-11-13 04:47:42,429 INFO  - Stopping flaskapp
+2022-11-13 04:47:42,429 DEBUG - ProcessKill 4632
+2022-11-13 04:47:42,445 DEBUG - Stopping process 4632...
+2022-11-13 04:47:42,866 DEBUG - Process 4632 canceled with code -1073741510.
+2022-11-13 04:47:42,882 INFO  - Finished flaskapp
+2022-11-13 04:47:59,822 DEBUG - Starting WinSW in service mode
+2022-11-13 04:48:00,337 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-11-13 04:48:00,462 INFO  - Started process 3492
+2022-11-13 04:48:00,462 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender
+2022-11-18 02:11:11,837 INFO  - Stopping flaskapp
+2022-11-18 02:11:11,837 DEBUG - ProcessKill 3492
+2022-11-18 02:11:11,837 DEBUG - Stopping process 3492...
+2022-11-18 02:11:12,275 DEBUG - Process 3492 canceled with code -1073741510.
+2022-11-18 02:11:12,275 INFO  - Finished flaskapp
+2022-11-18 02:11:33,023 DEBUG - Starting WinSW in service mode
+2022-11-18 02:11:33,320 INFO  - Starting C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe flaskapp.py
+2022-11-18 02:11:33,445 INFO  - Started process 4048
+2022-11-18 02:11:33,461 DEBUG - Forwarding logs of the process System.Diagnostics.Process (python) to WinSW.IgnoreLogAppender

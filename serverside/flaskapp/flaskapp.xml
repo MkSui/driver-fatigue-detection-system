@@ -1,0 +1,9 @@
+<service>
+  <id>flaskapp</id>
+  <name>flaskapp</name>
+  <description>flaskapp</description>
+  <executable>C:\Users\Administrator\AppData\Local\Programs\Python\Python310\python.exe</executable>
+ <arguments>flaskapp.py</arguments>
+<onfailure action="restart" delay="10 sec"/>
+  <log mode="none"></log>
+</service>
